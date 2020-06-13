@@ -36,4 +36,10 @@ const SellRequestSchema = new Schema({
 
 });
 
+SellRequestSchema.index({
+  phone_name: "text",
+  condition: "text",
+  storage_capacity: "text",
+});
+
 export default model("SellRequest", SellRequestSchema);
