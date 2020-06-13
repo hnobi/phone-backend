@@ -1,24 +1,12 @@
-const mongoose = require("mongoose");
+import express from 'express';
+import "dotenv/config";
 
-const server = "localhost:27017"; 
-const database = "phone-db"; //
+const app = express();
+const port = process.env.PORT;
+require("./models/db").default;
 
-class Database {
-  constructor() {
-    this._connect();
-  }
+app.get('/', (req, res)=>{
+  res.send({message: 'welcome phone'})
+})
 
-  _connect() {
-    mongoose
-      .connect(`mongodb://${server}/${database}`)
-      .then(() => {
-        console.log("Database connection successful");
-      })
-      .catch((err) => {
-        console.error("Database connection error");
-      });
-  }
-}
-
-module.exports = new Database();
-
+app.listen(port, () => console.log(`application running on port ${port}`));

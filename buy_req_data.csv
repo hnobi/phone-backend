@@ -1,0 +1,305 @@
+id,phone_name,storage_capacity,price,condition,status
+1,IPhone XS Max,64GB,560,New,Unlocked
+2,IPhone XS Max,64GB,555,A1,Unlocked
+3,IPhone XS Max,64GB,550,A2,Unlocked
+4,IPhone XS Max,64GB,545,B1,Unlocked
+5,IPhone XS Max,64GB,540,B2,Unlocked
+6,IPhone XS Max,64GB,535,C,Unlocked
+7,IPhone XS Max,64GB,530,C/B,Unlocked
+8,IPhone XS Max,64GB,525,C/D,Unlocked
+9,IPhone XS Max,256GB,580,New,Unlocked
+10,IPhone XS Max,256GB,575,A1,Unlocked
+11,IPhone XS Max,256GB,570,A2,Unlocked
+12,IPhone XS Max,256GB,565,B1,Unlocked
+13,IPhone XS Max,256GB,560,B2,Unlocked
+14,IPhone XS Max,256GB,555,C,Unlocked
+15,IPhone XS Max,256GB,550,C/B,Unlocked
+16,IPhone XS Max,256GB,545,C/D,Unlocked
+17,IPhone XS Max,512GB,600,New,Unlocked
+18,IPhone XS Max,512GB,595,A1,Unlocked
+19,IPhone XS Max,512GB,590,A2,Unlocked
+20,IPhone XS Max,512GB,585,B1,Unlocked
+21,IPhone XS Max,512GB,580,B2,Unlocked
+22,IPhone XS Max,512GB,575,C,Unlocked
+23,IPhone XS Max,512GB,570,C/B,Unlocked
+24,IPhone XS Max,512GB,565,C/D,Unlocked
+25,IPhone XS,64GB,510,New,Unlocked
+26,IPhone XS,64GB,505,A1,Unlocked
+27,IPhone XS,64GB,500,A2,Unlocked
+28,IPhone XS,64GB,495,B1,Unlocked
+29,IPhone XS,64GB,490,B2,Unlocked
+30,IPhone XS,64GB,485,C,Unlocked
+31,IPhone XS,64GB,480,C/B,Unlocked
+32,IPhone XS,64GB,475,C/D,Unlocked
+33,IPhone XS,256GB,530,New,Unlocked
+34,IPhone XS,256GB,525,A1,Unlocked
+35,IPhone XS,256GB,520,A2,Unlocked
+36,IPhone XS,256GB,515,B1,Unlocked
+37,IPhone XS,256GB,510,B2,Unlocked
+38,IPhone XS,256GB,505,C,Unlocked
+39,IPhone XS,256GB,500,C/B,Unlocked
+40,IPhone XS,256GB,495,C/D,Unlocked
+41,IPhone XS,512GB,550,New,Unlocked
+42,IPhone XS,512GB,545,A1,Unlocked
+43,IPhone XS,512GB,540,A2,Unlocked
+44,IPhone XS,512GB,536,B1,Unlocked
+45,IPhone XS,512GB,530,B2,Unlocked
+46,IPhone XS,512GB,525,C,Unlocked
+47,IPhone XS,512GB,520,C/B,Unlocked
+48,IPhone XS,512GB,515,C/D,Unlocked
+49,IPhone XR,64GB,460,New,Unlocked
+50,IPhone XR,64GB,455,A1,Unlocked
+51,IPhone XR,64GB,450,A2,Unlocked
+52,IPhone XR,64GB,445,B1,Unlocked
+53,IPhone XR,64GB,440,B2,Unlocked
+54,IPhone XR,64GB,435,C,Unlocked
+55,IPhone XR,64GB,430,C/B,Unlocked
+56,IPhone XR,64GB,425,C/D,Unlocked
+57,IPhone XR,128GB,480,New,Unlocked
+58,IPhone XR,128GB,475,A1,Unlocked
+59,IPhone XR,128GB,470,A2,Unlocked
+60,IPhone XR,128GB,465,B1,Unlocked
+61,IPhone XR,128GB,460,B2,Unlocked
+62,IPhone XR,128GB,455,C,Unlocked
+63,IPhone XR,128GB,450,C/B,Unlocked
+64,IPhone XR,128GB,445,C/D,Unlocked
+65,IPhone XR,256GB,500,New,Unlocked
+66,IPhone XR,256GB,495,A1,Unlocked
+67,IPhone XR,256GB,490,A2,Unlocked
+68,IPhone XR,256GB,485,B1,Unlocked
+69,IPhone XR,256GB,480,B2,Unlocked
+70,IPhone XR,256GB,475,C,Unlocked
+71,IPhone XR,256GB,470,C/B,Unlocked
+72,IPhone XR,256GB,465,C/D,Unlocked
+73,IPhone X,64GB,430,New,Unlocked
+74,IPhone X,64GB,425,A1,Unlocked
+75,IPhone X,64GB,420,A2,Unlocked
+76,IPhone X,64GB,415,B1,Unlocked
+77,IPhone X,64GB,410,B2,Unlocked
+78,IPhone X,64GB,405,C,Unlocked
+79,IPhone X,64GB,400,C/B,Unlocked
+80,IPhone X,64GB,395,C/D,Unlocked
+81,IPhone X,256GB,450,New,Unlocked
+82,IPhone X,256GB,445,A1,Unlocked
+83,IPhone X,256GB,440,A2,Unlocked
+84,IPhone X,256GB,435,B1,Unlocked
+85,IPhone X,256GB,430,B2,Unlocked
+86,IPhone X,256GB,425,C,Unlocked
+87,IPhone X,256GB,420,C/B,Unlocked
+88,IPhone X,256GB,415,C/D,Unlocked
+89,IPhone 8 PLUS,64GB,380,New,Unlocked
+90,IPhone 8 PLUS,64GB,375,A1,Unlocked
+91,IPhone 8 PLUS,64GB,370,A2,Unlocked
+92,IPhone 8 PLUS,64GB,365,B1,Unlocked
+93,IPhone 8 PLUS,64GB,360,B2,Unlocked
+94,IPhone 8 PLUS,64GB,355,C,Unlocked
+95,IPhone 8 PLUS,64GB,350,C/B,Unlocked
+96,IPhone 8 PLUS,64GB,345,C/D,Unlocked
+97,IPhone 8 PLUS,256GB,400,New,Unlocked
+98,IPhone 8 PLUS,256GB,395,A1,Unlocked
+99,IPhone 8 PLUS,256GB,390,A2,Unlocked
+100,IPhone 8 PLUS,256GB,385,B1,Unlocked
+101,IPhone 8 PLUS,256GB,380,B2,Unlocked
+102,IPhone 8 PLUS,256GB,375,C,Unlocked
+103,IPhone 8 PLUS,256GB,370,C/B,Unlocked
+104,IPhone 8 PLUS,256GB,365,C/D,Unlocked
+105,IPhone 8,64GB,330,New,Unlocked
+106,IPhone 8,64GB,325,A1,Unlocked
+107,IPhone 8,64GB,320,A2,Unlocked
+108,IPhone 8,64GB,315,B1,Unlocked
+109,IPhone 8,64GB,310,B2,Unlocked
+110,IPhone 8,64GB,305,C,Unlocked
+111,IPhone 8,64GB,300,C/B,Unlocked
+112,IPhone 8,64GB,295,C/D,Unlocked
+113,IPhone 8,256GB,350,New,Unlocked
+114,IPhone 8,256GB,345,A1,Unlocked
+115,IPhone 8,256GB,340,A2,Unlocked
+116,IPhone 8,256GB,335,B1,Unlocked
+117,IPhone 8,256GB,330,B2,Unlocked
+118,IPhone 8,256GB,325,C,Unlocked
+119,IPhone 8,256GB,320,C/B,Unlocked
+120,IPhone 8,256GB,315,C/D,Unlocked
+121,IPhone 7 PLUS,32GB,260,New,Unlocked
+122,IPhone 7 PLUS,32GB,255,A1,Unlocked
+123,IPhone 7 PLUS,32GB,250,A2,Unlocked
+124,IPhone 7 PLUS,32GB,245,B1,Unlocked
+125,IPhone 7 PLUS,32GB,240,B2,Unlocked
+126,IPhone 7 PLUS,32GB,235,C,Unlocked
+127,IPhone 7 PLUS,32GB,230,C/B,Unlocked
+128,IPhone 7 PLUS,32GB,225,C/D,Unlocked
+129,IPhone 7 PLUS,128GB,280,New,Unlocked
+130,IPhone 7 PLUS,128GB,275,A1,Unlocked
+131,IPhone 7 PLUS,128GB,270,A2,Unlocked
+132,IPhone 7 PLUS,128GB,265,B1,Unlocked
+133,IPhone 7 PLUS,128GB,260,B2,Unlocked
+134,IPhone 7 PLUS,128GB,255,C,Unlocked
+135,IPhone 7 PLUS,128GB,250,C/B,Unlocked
+136,IPhone 7 PLUS,128GB,245,C/D,Unlocked
+137,IPhone 7 PLUS,256GB,300,New,Unlocked
+138,IPhone 7 PLUS,256GB,295,A1,Unlocked
+139,IPhone 7 PLUS,256GB,290,A2,Unlocked
+140,IPhone 7 PLUS,256GB,285,B1,Unlocked
+141,IPhone 7 PLUS,256GB,280,B2,Unlocked
+142,IPhone 7 PLUS,256GB,275,C,Unlocked
+143,IPhone 7 PLUS,256GB,270,C/B,Unlocked
+144,IPhone 7 PLUS,256GB,265,C/D,Unlocked
+145,IPhone 7 ,32GB,210,New,Unlocked
+146,IPhone 7 ,32GB,205,A1,Unlocked
+147,IPhone 7,32GB,200,A2,Unlocked
+148,IPhone 7,32GB,195,B1,Unlocked
+149,IPhone 7,32GB,190,B2,Unlocked
+150,IPhone 7,32GB,185,C,Unlocked
+151,IPhone 7,32GB,180,C/B,Unlocked
+152,IPhone 7,32GB,175,C/D,Unlocked
+153,IPhone 7,128GB,230,New,Unlocked
+154,IPhone 7,128GB,225,A1,Unlocked
+155,IPhone 7,128GB,220,A2,Unlocked
+156,IPhone 7,128GB,215,B1,Unlocked
+157,IPhone 7,128GB,210,B2,Unlocked
+158,IPhone 7,128GB,205,C,Unlocked
+159,IPhone 7,128GB,200,C/B,Unlocked
+160,IPhone 7,128GB,195,C/D,Unlocked
+161,IPhone 7,256GB,250,New,Unlocked
+162,IPhone 7,256GB,245,A1,Unlocked
+163,IPhone 7,256GB,240,A2,Unlocked
+164,IPhone 7,256GB,235,B1,Unlocked
+165,IPhone 7,256GB,230,B2,Unlocked
+166,IPhone 7,256GB,225,C,Unlocked
+167,IPhone 7,256GB,220,C/B,Unlocked
+168,IPhone 7,256GB,215,C/D,Unlocked
+169,IPhone 6S PLUS,16GB,170,New,Unlocked
+170,IPhone 6S PLUS,16GB,165,A1,Unlocked
+171,IPhone 6S PLUS,16GB,160,A2,Unlocked
+172,IPhone 6S PLUS,16GB,155,B1,Unlocked
+173,IPhone 6S PLUS,16GB,150,B2,Unlocked
+174,IPhone 6S PLUS,16GB,145,C,Unlocked
+175,IPhone 6S PLUS,16GB,140,C/B,Unlocked
+176,IPhone 6S PLUS,16GB,135,C/D,Unlocked
+177,IPhone 6S PLUS,32GB,180,New,Unlocked
+178,IPhone 6S PLUS,32GB,175,A1,Unlocked
+179,IPhone 6S PLUS,32GB,170,A2,Unlocked
+180,IPhone 6S PLUS,32GB,165,B1,Unlocked
+181,IPhone 6S PLUS,32GB,160,B2,Unlocked
+182,IPhone 6S PLUS,32GB,155,C,Unlocked
+183,IPhone 6S PLUS,32GB,150,C/B,Unlocked
+184,IPhone 6S PLUS,32GB,145,C/D,Unlocked
+185,IPhone 6S PLUS,64GB,190,New,Unlocked
+186,IPhone 6S PLUS,64GB,185,A1,Unlocked
+187,IPhone 6S PLUS,64GB,180,A2,Unlocked
+188,IPhone 6S PLUS,64GB,175,B1,Unlocked
+189,IPhone 6S PLUS,64GB,170,B2,
+190,IPhone 6S PLUS,64GB,165,C,Unlocked
+191,IPhone 6S PLUS,64GB,160,C/B,Unlocked
+192,IPhone 6S PLUS,64GB,155,C/D,Unlocked
+193,IPhone 6S PLUS,128GB,200,New,Unlocked
+194,IPhone 6S PLUS,128GB,195,A1,Unlocked
+195,IPhone 6S PLUS,128GB,190,A2,Unlocked
+196,IPhone 6S PLUS,128GB,185,B1,Unlocked
+197,IPhone 6S PLUS,128GB,180,B2,Unlocked
+198,IPhone 6S PLUS,128GB,175,C,Unlocked
+199,IPhone 6S PLUS,128GB,170,C/B,Unlocked
+200,IPhone 6S PLUS,128GB,165,C/D,Unlocked
+201,IPhone 6S,16GB,120,New,Unlocked
+202,IPhone 6S,16GB,115,A1,Unlocked
+203,IPhone 6S,16GB,110,A2,Unlocked
+204,IPhone 6S,16GB,105,B1,Unlocked
+205,IPhone 6S,16GB,100,B2,Unlocked
+206,IPhone 6S,16GB,95,C,Unlocked
+207,IPhone 6S,16GB,90,C/B,Unlocked
+208,IPhone 6S,16GB,85,C/D,Unlocked
+209,IPhone 6S,32GB,130,New,Unlocked
+210,IPhone 6S,32GB,125,A1,Unlocked
+211,IPhone 6S,32GB,120,A2,Unlocked
+212,IPhone 6S,32GB,115,B1,Unlocked
+213,IPhone 6S,32GB,110,B2,Unlocked
+214,IPhone 6S,32GB,105,C,Unlocked
+215,IPhone 6S,32GB,100,C/B,Unlocked
+216,IPhone 6S,32GB,95,C/D,Unlocked
+217,IPhone 6S,64GB,140,New,Unlocked
+218,IPhone 6S,64GB,135,A1,Unlocked
+219,IPhone 6S,64GB,130,A2,Unlocked
+220,IPhone 6S,64GB,125,B1,Unlocked
+221,IPhone 6S,64GB,120,B2,Unlocked
+222,IPhone 6S,64GB,115,C,Unlocked
+223,IPhone 6S,64GB,110,C/B,Unlocked
+224,IPhone 6S,64GB,105,C/D,Unlocked
+225,IPhone 6S,128GB,150,New,Unlocked
+226,IPhone 6S,128GB,145,A1,Unlocked
+227,IPhone 6S,128GB,140,A2,Unlocked
+228,IPhone 6S,128GB,135,B1,Unlocked
+229,IPhone 6S,128GB,130,B2,Unlocked
+230,IPhone 6S,128GB,125,C,Unlocked
+231,IPhone 6S,128GB,120,C/B,Unlocked
+232,IPhone 6S,128GB,115,C/D,Unlocked
+233,IPhone 6 PLUS,16GB,60,New,Unlocked
+234,IPhone 6 PLUS,16GB,55,A1,Unlocked
+235,IPhone 6 PLUS,16GB,50,A2,Unlocked
+236,IPhone 6 PLUS,16GB,45,B1,Unlocked
+237,IPhone 6 PLUS,16GB,40,B2,Unlocked
+238,IPhone 6 PLUS,16GB,35,C,Unlocked
+239,IPhone 6 PLUS,16GB,30,C/B,Unlocked
+240,IPhone 6 PLUS,16GB,25,C/D,Unlocked
+241,IPhone 6 PLUS,64GB,80,New,Unlocked
+242,IPhone 6 PLUS,64GB,75,A1,Unlocked
+243,IPhone 6 PLUS,64GB,70,A2,Unlocked
+244,IPhone 6 PLUS,64GB,65,B1,Unlocked
+245,IPhone 6 PLUS,64GB,60,B2,Unlocked
+246,IPhone 6 PLUS,64GB,55,C,Unlocked
+247,IPhone 6 PLUS,64GB,50,C/B,Unlocked
+248,IPhone 6 PLUS,64GB,45,C/D,Unlocked
+249,IPhone 6 PLUS,128GB,100,New,Unlocked
+250,IPhone 6 PLUS,128GB,95,A1,Unlocked
+251,IPhone 6 PLUS,128GB,90,A2,Unlocked
+252,IPhone 6 PLUS,128GB,85,B1,Unlocked
+253,IPhone 6 PLUS,128GB,80,B2,Unlocked
+254,IPhone 6 PLUS,128GB,75,C,Unlocked
+255,IPhone 6 PLUS,128GB,70,C/B,Unlocked
+256,IPhone 6 PLUS,128GB,65,C/D,Unlocked
+257,IPhone 6 ,16GB,60,New,Unlocked
+258,IPhone 6,16GB,55,A1,Unlocked
+259,IPhone 6,16GB,50,A2,Unlocked
+260,IPhone 6,16GB,45,B1,Unlocked
+261,IPhone 6,16GB,40,B2,Unlocked
+262,IPhone 6,16GB,35,C,Unlocked
+263,IPhone 6,16GB,30,C/B,Unlocked
+264,IPhone 6,16GB,25,C/D,Unlocked
+265,IPhone 6,64GB,80,New,Unlocked
+266,IPhone 6,64GB,75,A1,Unlocked
+267,IPhone 6,64GB,70,A2,Unlocked
+268,IPhone 6,64GB,65,B1,Unlocked
+269,IPhone 6,64GB,60,B2,Unlocked
+270,IPhone 6,64GB,55,C,Unlocked
+271,IPhone 6,64GB,50,C/B,Unlocked
+272,IPhone 6,64GB,45,C/D,Unlocked
+273,IPhone 6,128GB,100,New,Unlocked
+274,IPhone 6,128GB,95,A1,Unlocked
+275,IPhone 6,128GB,90,A2,Unlocked
+276,IPhone 6,128GB,85,B1,Unlocked
+277,IPhone 6,128GB,80,B2,Unlocked
+278,IPhone 6,128GB,75,C,Unlocked
+279,IPhone 6,128GB,70,C/B,Unlocked
+280,IPhone 6,128GB,65,C/D,Unlocked
+281,IPhone SE,16GB,40,New,Unlocked
+282,IPhone SE,16GB,35,A1,Unlocked
+283,IPhone SE,16GB,30,A2,Unlocked
+284,IPhone SE,16GB,25,B1,Unlocked
+285,IPhone SE,16GB,20,B2,Unlocked
+286,IPhone SE,16GB,15,C,Unlocked
+287,IPhone SE,16GB,10,C/B,Unlocked
+288,IPhone SE,16GB,5,C/D,Unlocked
+289,IPhone SE,64GB,60,New,Unlocked
+290,IPhone SE,64GB,55,A1,Unlocked
+291,IPhone SE,64GB,50,A2,Unlocked
+292,IPhone SE,64GB,45,B1,Unlocked
+293,IPhone SE,64GB,40,B2,Unlocked
+294,IPhone SE,64GB,35,C,Unlocked
+295,IPhone SE,64GB,30,C/B,Unlocked
+296,IPhone SE,64GB,25,C/D,Unlocked
+297,IPhone SE,128GB,80,New,Unlocked
+298,IPhone SE,128GB,75,A1,Unlocked
+299,IPhone SE,128GB,70,A2,Unlocked
+300,IPhone SE,128GB,65,B1,Unlocked
+301,IPhone SE,128GB,60,B2,Unlocked
+302,IPhone SE,128GB,55,C,Unlocked
+303,IPhone SE,128GB,50,C/B,Unlocked
+304,IPhone SE,128GB,45,C/D,Unlocked
