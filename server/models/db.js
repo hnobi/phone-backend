@@ -2,7 +2,6 @@ import { connect,disconnect } from "mongoose";
 
 
 const mongoURL = process.env.MONGO_URL || "mongodb://localhost:27017/phonedb";
-
 class Database {
   constructor() {
     this._connect();

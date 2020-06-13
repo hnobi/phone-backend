@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon  --exec babel-node server/app.js",
+    "start:dev": "nodemon  --exec babel-node server/app.js",
+    "build-babel": "babel -d ./build ./src -s",
+    "clean": "rm -rf build && mkdir build",
+    "build": "npm run clean && npm run build-babel",
+    "start": "npm run build && node ./build/index.js",
     "seed": "babel-node server/seeders/seed.js"
   },
   "repository": {
