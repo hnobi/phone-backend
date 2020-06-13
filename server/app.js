@@ -3,7 +3,7 @@ import "dotenv/config";
 import routes from './routes/routes';
 
 const app = express();
-const port = process.env.PORT;
+const PORT = process.env.PORT || 3000;
 require("./models/db").default;
 
 app.get('/', (req, res)=>{
@@ -13,4 +13,4 @@ app.get('/', (req, res)=>{
 app.use('/api', routes);
 
 
-app.listen(port, () => console.log(`application running on port ${port}`));
+app.listen(PORT, () => console.log(`application running on port ${PORT}`));
