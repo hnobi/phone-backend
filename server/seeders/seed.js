@@ -34,7 +34,7 @@ DB._connect();
     .pipe(csv())
     .on("data", (request) => {
       request.imageUrl = `${cloundinaryUrl}/${imageMap[request.phone_name]}`;
-         delete request.id
+        //  delete request.id
       datas.push(request);
     })
     .on("end", () => {

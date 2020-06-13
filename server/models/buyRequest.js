@@ -2,11 +2,11 @@ import { Schema, model } from 'mongoose';
 
 const BuyRequestSchema = new Schema({
   
-  // id: {
-  //   type: Number,
-  //   required: true,
-  //   unique: true,
-  // },
+  id: {
+    type: Number,
+    required: true,
+    unique: true,
+  },
 
   phone_name: {
     type: String,
