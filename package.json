@@ -6,13 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "nodemon  --exec babel-node server/app.js",
-    "start": "npm run prod",
-    "build": "npm-run-all clean transpile",
-    "server": "node ./dist",
-    "prod": "export NODE_ENV=production && npm-run-all build server",
-    "transpile": "babel-node ./server/app.js --out-dir dist",
-    "clean": "rimraf dist",
-    "seed": "babel-node server/seeders/seed.js"
+    "start": "npm run build && node --require dotenv/config ./dist/app.js",
+    "seed": "babel-node server/seeders/seed.js",
+    "build": "rimraf dist/ && babel server/ --out-dir dist"
   },
   "repository": {
     "type": "git",
@@ -25,15 +21,16 @@
   },
   "homepage": "https://github.com/hnobi/phone-backend#readme",
   "dependencies": {
+    "@babel/cli": "^7.4.4",
     "@babel/core": "^7.10.2",
+    "@babel/node": "^7.10.1",
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
     "csv-parser": "^2.3.3",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongoose": "^5.9.18",
-    "npm-run-all": "^4.1.5",
-    "rimraf": "^3.0.2",
-    "@babel/node": "^7.10.1",
-    "@babel/preset-env": "^7.10.2"
+    "rimraf": "^3.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
