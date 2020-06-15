@@ -1,11 +1,13 @@
 import express from 'express';
 import "dotenv/config";
 import routes from './routes/routes';
+import cors from 'cors';
+require("./models/db").default;
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-require("./models/db").default;
 
+app.use(cors())
 app.get('/', (req, res)=>{
   res.send({message: 'welcome phone'})
 })
