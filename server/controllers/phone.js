@@ -39,7 +39,7 @@ export default class Phones {
 
     const result = await RequestType.find(
       { ...obj, price: { $gte: Number(min)|| 40, $lte: Number(max)|| 1500 } },
-      { score: { $meta: "textScore" } }
+      // { score: { $meta: "textScore" } }
     )
       .sort(sortingBy)
       .skip(skip)
